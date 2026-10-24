@@ -1,0 +1,6 @@
+{
+  "name": "MindMap AI Pro",
+  "description": "Transform textbook pages, photos, PDFs, and notes into interactive, structured mind maps with an AI study tutor and flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
